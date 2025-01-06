@@ -1,3 +1,3 @@
 #GupShup 
--A MERN based chat app
+-A MERN based RealTime chat app
 
